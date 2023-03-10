@@ -23,6 +23,18 @@
       "password": "123",
       "email": "test1@test.com",
       "id": 4
+    },
+    {
+      "name": "Peter",
+      "password": "123",
+      "email": "peter@test.com",
+      "id": 5
+    },
+    {
+      "name": "John",
+      "password": "abc",
+      "email": "john@test.com",
+      "id": 6
     }
   ]
 }
