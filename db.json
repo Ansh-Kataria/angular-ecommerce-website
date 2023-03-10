@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "Ansh Kataria",
+      "email": "ansh@gmail.com",
+      "password": "abc",
+      "id": 1
+    },
+    {
+      "name": "Ansh kataria",
+      "password": "123",
+      "email": "a@test.com",
+      "id": 2
+    },
+    {
+      "name": "Bharti",
+      "password": "123",
+      "email": "Bharti@test.com",
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "password": "123",
+      "email": "test1@test.com",
+      "id": 4
+    }
+  ]
+}
